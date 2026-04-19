@@ -5253,7 +5253,7 @@
                           title: "Dexscreener",
                           IconSvg: TT,
                           showCTAs: n,
-                          href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                          href: "https://dexscreener.com/ethereum/0x8fbd3c18638728e4186f80dab3f810af0a15faf1",
                           onFocus: E,
                           onBlur: _,
                           cursor: "dexscreener",
@@ -8517,13 +8517,13 @@
       var r = {
         intro: [
           "Introducing $VOJAK!",
-          "The token where memes meet the blockchain. Dive into ERC-20 magic today!\nCA: 0xcomingsoon",
+          "The token where memes meet the blockchain. Dive into ERC-20 magic today!\nCA: 0x8fbd3c18638728e4186f80dab3f810af0a15faf1",
           "Get to know $VOJAK",
         ],
         mission: [
           "WHO IS Vitalik Wojak?",
           '$VOJAK, commonly recognized as "Feels US Guy," represents a digital embodiment of emotion on the internet.',
-          "In the age of decentralized finance, tokens like $VOJAK provide a nexus between cultural phenomena and digital currency. Built on the Ethereum-based ERC-20 standard, $VOJAK is more than just a token; it's a symbol of the confluence of internet culture and blockchain technology.\n0xcomingsoon",
+          "In the age of decentralized finance, tokens like $VOJAK provide a nexus between cultural phenomena and digital currency. Built on the Ethereum-based ERC-20 standard, $VOJAK is more than just a token; it's a symbol of the confluence of internet culture and blockchain technology.\n0x8fbd3c18638728e4186f80dab3f810af0a15faf1",
         ],
         testimonials: [
           {
@@ -8589,7 +8589,7 @@
         },
       });
       var r =
-          "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+          "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8fbd3c18638728e4186f80dab3f810af0a15faf1",
         o =
           "https://www.dextools.io/app/ether/pair-explorer/0x9dfb8f4de100ef68d44cd9507b2db220269c57e2",
         i = "https://x.com/Vitalik_Wojak";
