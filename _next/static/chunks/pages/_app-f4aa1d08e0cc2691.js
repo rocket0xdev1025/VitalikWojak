@@ -8591,7 +8591,7 @@
       var r =
           "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8fbd3c18638728e4186f80dab3f810af0a15faf1",
         o =
-          "https://www.dextools.io/app/ether/pair-explorer/0x9dfb8f4de100ef68d44cd9507b2db220269c57e2",
+          "https://www.dextools.io/app/en/ether/pair-explorer/0x8fbd3c18638728E4186F80daB3f810aF0A15faf1",
         i = "https://x.com/Vitalik_Wojak";
     },
     4822: function (e, t, n) {
