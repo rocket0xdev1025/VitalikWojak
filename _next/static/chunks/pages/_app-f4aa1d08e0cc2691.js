@@ -5383,7 +5383,7 @@
                   }),
                   (0, x.jsx)("link", {
                     rel: "icon",
-                    href: "/images/favicon.png",
+                    href: "/ad_assets/logo.png",
                   }),
                 ],
               }),
